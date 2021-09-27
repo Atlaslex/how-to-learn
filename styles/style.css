@@ -73,7 +73,6 @@
 .header__square-pic {
   height: 568px;
   width: 568px;
-  width: 568px;
   position: absolute;
   right: 0;
   top: 64px;
@@ -136,7 +135,7 @@ span {
   right: -210px;
 }
 .section-title_theme_dark {
-margin: 90px auto 20px;
+  margin: 90px auto 20px;
 }
 .section-subtitle {
   width: 60%;
